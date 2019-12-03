@@ -1,0 +1,4 @@
+---
+# defaults file for hoplacloud.check-mk-agent
+url_deb: "https://supervision.hopla.cloud/sv1/check_mk/agents/check-mk-agent_1.6.0p6-1_all.deb"
+url_rpm: "https://supervision.hopla.cloud/sv1/check_mk/agents/check-mk-agent-1.6.0p6-1.noarch.rpm"
